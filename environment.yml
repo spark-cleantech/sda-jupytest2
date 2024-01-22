@@ -8,3 +8,4 @@ dependencies:
   - pip:
     - ipyparams  # only works in Jupyter, not JupyterLab
     - anywidget  # try https://github.com/jupyterlite/jupyterlite/discussions/1090#discussioncomment-6802901
+    - psygnal    # for anywidget
